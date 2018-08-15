@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Lab4_Problem</string>
+
+    <!-- CalculatorActivity -->
+    <string name="calculator_page_title">Lab4_Problem</string>
+    <string name="results_page_title">Lab4_Problem</string>
+    <string name="calculator_message">Calculate Standard Weight</string>
+    <string name="gender_radio_group">Gender:</string>
+    <string name="gender_male_radio_btn">Male</string>
+    <string name="gender_female_radio_btn">Female</string>
+    <string name="height_selector_label">Height:</string>
+    <string name="unit1_label">feet</string>
+    <string name="unit2_label">inches</string>
+    <string name="calculate_button_text">CALCULATE</string>
+    <string-array name="unit1Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="unit2Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+
+    <!-- ResultsActivity -->
+    <string name="genderLabel">You are</string>
+    <string name="heightLabel">Your height is</string>
+    <string name="weightLabel">The standard weight is</string>
+
+    <!-- Constants -->
+    <string name="gender_key">Gender</string>
+    <string name="height_key">Height</string>
+    <string name="weight_key">StandardWeight</string>
+</resources>
